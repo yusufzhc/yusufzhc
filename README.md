@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yusufzhc Yusuf Khan
 - 👀 I’m interested in R Python Omic analysis
 - 🌱 I’m currently learning ML models on variants 
-- 💞️ I’m looking to collaborate on Hi-C sequencing analysis 
-- 📫 How to reach me yuskha@ous-hf.no
+- 📫 How to reach me yusuf.khan@ous-research.no
 
 <!---
 yusufzhc/yusufzhc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
